@@ -64,50 +64,6 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 
 ---
 
-## 🛠️ Projects
-### **📝 Journaling Application**
-**Tech:** Spring Boot, Security, JPA, Maven, REST APIs  
-- Secure journal entry backend system.  
-- Authentication + Authorization with Spring Security.
-
-### **🏦 Banking Website**
-**Tech:** Node.js, JavaScript, Cypress  
-- Automated testing suite covering E2E scenarios.  
-- Ensured compliance with user & business requirements.
-
-### **🛒 Online Supermarket Website**
-**Tech:** Node.js, Playwright, Git  
-- Built marketplace features and frontend interactions.  
-- Automated cross-browser testing.
-
----
-
-## 🏆 Achievements
-- 🥇 Best Intern of the Month — Hexaview Technologies
-- 🧩 Cleared Client Interview in 2nd Month
-- 🥉 3rd — GDSC Hackathon 2023, Pilani
-- 🥈 2nd — Volleyball Tournament (Captain), LNMIT
-
----
-
-## 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-B.K. Birla Institute of Engineering & Technology, Pilani  
-📊 **CGPA:** 8.5/10
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AMANKUMAR0101&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AMANKUMAR0101&theme=tokyonight" height="160" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMANKUMAR0101&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📄 Resume
 [📥 **Download My Resume**](/mnt/data/Aman.Resume01.pdf)
 
