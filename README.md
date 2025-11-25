@@ -64,11 +64,6 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 
 ---
 
-## 📄 Resume
-[📥 **Download My Resume**](/mnt/data/Aman.Resume01.pdf)
-
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer" />
 </p>
