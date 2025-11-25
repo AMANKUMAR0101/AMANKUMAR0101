@@ -8,9 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;SDET+%7C+Automation+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Clean+Code+Enthusiast" />
 </p>
 
+<!-- Contact Buttons -->
 <p align="center">
-<a href="mailto:amankumar.bkbiet25@gmail.com">📧 Email</a> •
-<a href="https://www.linkedin.com/in/aman-kumar-bhaladar-9b0376226">🔗 LinkedIn</a>
+  <a href="mailto:amankumar.bkbiet25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amankumar.bkbiet25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aman-kumar-bhaladar-9b0376226">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -61,15 +67,15 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 ## 📌 Professional Experience
 
 ### **CTO — Stepwise (French Startup)** *(2025 — Present)*
-- Leading the **entire technology team** & responsible for strategic technical decisions.  
-- Working as **Tech Lead**, overseeing architecture, engineering quality, and release cycles.  
-- Managing developers, reviewing code, and ensuring scalable product development.  
-- Closely collaborating with founders on **product roadmap & technical strategy**.
+- Leading the **entire technology team** & responsible for all technical decisions.  
+- Acting as **Tech Lead** → managing architecture, engineering quality & code reviews.  
+- Overseeing product development, release cycles & developer workflow.  
+- Working closely with founders on **product roadmap & technical strategy**.
 
 ### **Software Development Engineer in Test — Hexaview Technologies** *(Aug 2024 — Sep 2025)*
-- Built automated test pipelines using **Cypress, Playwright, Selenium**.
-- Improved application reliability with structured QA processes.
-- Promoted early from manual testing due to performance.
+- Built automated test pipelines using **Cypress, Playwright, Selenium**.  
+- Improved application reliability with structured QA processes.  
+- Promoted early from manual testing due to performance.  
 - Gained deep knowledge of **product lifecycle & configuration**.
 
 ---
