@@ -8,15 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=1E90FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;SDET+%7C+Automation+Engineer;Java+%7C+Spring+Boot+%7C+Node.js;Clean+Code+Enthusiast" />
 </p>
 
-<!-- Contact Buttons -->
+<!-- Contact Section -->
 <p align="center">
-  <a href="mailto:amankumar.bkbiet25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amankumar.bkbiet25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aman-kumar-bhaladar-9b0376226">
+
+  <!-- Email (Simple text, copyable) -->
+  <b>Email:</b> amankumar.bkbiet25@gmail.com  
+  <br/>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aman-kumar-bhaladar-9b0376226" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aman%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </p>
 
 ---
@@ -42,7 +45,7 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### 🧪 Automation & Testing
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -67,19 +70,18 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 ## 📌 Professional Experience
 
 ### **CTO — Stepwise (French Startup)** *(2025 — Present)*
-- Leading the **entire technology team** & responsible for all technical decisions.  
-- Acting as **Tech Lead** → managing architecture, engineering quality & code reviews.  
-- Overseeing product development, release cycles & developer workflow.  
-- Working closely with founders on **product roadmap & technical strategy**.
+- Leading the **entire technology team**.  
+- Acting as **Tech Lead** for architecture, reviews, and engineering workflows.  
+- Managing releases, performance, and development cycles.  
+- Driving **technical strategy & product roadmap** with founders.
 
 ### **Software Development Engineer in Test — Hexaview Technologies** *(Aug 2024 — Sep 2025)*
-- Built automated test pipelines using **Cypress, Playwright, Selenium**.  
-- Improved application reliability with structured QA processes.  
-- Promoted early from manual testing due to performance.  
-- Gained deep knowledge of **product lifecycle & configuration**.
+- Built automated test pipelines with **Cypress, Playwright, Selenium**.  
+- Improved release quality with structured QA processes.  
+- Promoted early for outstanding performance.  
+- Strong understanding of **product lifecycle & configuration**.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer" />
-</p>
+  <img src="https://capsule
