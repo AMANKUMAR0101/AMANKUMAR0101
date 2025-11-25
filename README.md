@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a results-driven **Software Engineer** specializing in **Java, Spring Boot, Node.js, QA Automation**, and scalable backend systems. I enjoy solving complex engineering challenges and delivering production-ready solutions.
+I am a results-driven **Software Engineer** specializing in **Java, Spring Boot, Rails, Ruby, Node.js, QA Automation**, and scalable backend systems. I enjoy solving complex engineering challenges and delivering production-ready solutions.
 
 💡 Passionate about: Clean Code • High-Quality Engineering • Scalable Architectures  
 ⚽ Fun Fact: I love **football, volleyball**, and going to the **gym**.
@@ -30,11 +30,13 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### ⚙️ Frameworks & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### 🧪 Automation & Testing
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -43,6 +45,8 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -55,6 +59,13 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 ---
 
 ## 📌 Professional Experience
+
+### **CTO — Stepwise (French Startup)** *(2025 — Present)*
+- Leading the **entire technology team** & responsible for strategic technical decisions.  
+- Working as **Tech Lead**, overseeing architecture, engineering quality, and release cycles.  
+- Managing developers, reviewing code, and ensuring scalable product development.  
+- Closely collaborating with founders on **product roadmap & technical strategy**.
+
 ### **Software Development Engineer in Test — Hexaview Technologies** *(Aug 2024 — Sep 2025)*
 - Built automated test pipelines using **Cypress, Playwright, Selenium**.
 - Improved application reliability with structured QA processes.
