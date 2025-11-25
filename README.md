@@ -10,7 +10,6 @@
 
 <p align="center">
 <a href="mailto:amankumar.bkbiet25@gmail.com">📧 Email</a> •
-<a href="https://github.com/AMANKUMAR0101">💻 GitHub</a> •
 <a href="https://www.linkedin.com/in/aman-kumar-bhaladar-9b0376226">🔗 LinkedIn</a>
 </p>
 
