@@ -69,7 +69,7 @@ I am a results-driven **Software Engineer** specializing in **Java, Spring Boot,
 
 ## 📌 Professional Experience
 
-### **CTO — Stepwise (French Startup)** *(2025 — Present)*
+### **Tech Lead — Stepwise (French Startup)** *(2025 — Present)*
 - Leading the **entire technology team**.  
 - Acting as **Tech Lead** for architecture, reviews, and engineering workflows.  
 - Managing releases, performance, and development cycles.  
